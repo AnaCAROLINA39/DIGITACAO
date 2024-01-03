@@ -172,3 +172,8 @@ color: aqua;
 .apresentacao__img{
   width: 30%;
 }
+@media(max-width:1200px){
+  .apresentacao{
+    flex-direction: column-reverse;
+  }
+}
