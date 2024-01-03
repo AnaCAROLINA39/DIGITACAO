@@ -146,6 +146,9 @@ body{
 .apresentacao__links__link:hover{
     background-color: #272727;
 }
+.cabecalho__menu__link:hover{
+color: aqua;
+}
 .rodape{
   background-color: var(--cor-terciario);
   color: var(--cor-segundaria);
@@ -161,11 +164,11 @@ body{
   gap: 80px;
 }
 .cabecalho__menu__link{
-  color: var(--cor-terciario);
+  color:dodgerblue;
   font-size: 1.5rem;
   font-weight: 800;
   text-decoration: none;
 }
 .apresentacao__img{
-  width: 50%;
+  width: 30%;
 }
